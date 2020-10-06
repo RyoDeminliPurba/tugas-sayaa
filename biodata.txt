@@ -1,0 +1,71 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+</head>
+
+<body>
+  <body bgcolor="#FF0000"></body>
+<CENTER><H2>BIODATA DIRI MAHASISWA </H2></CENTER>
+<CENTER><H3>RYO DEMINLI PURBA </H3></CENTER>
+<CENTER><H3>MAHASISWA UNIVERSITAS IBBI </H3></CENTER>
+<table width="603" border="1" style="background-color: aqua;">
+      <tr>
+    <td width="232"><center>NAMA</td></center>
+    <td width="355"><center>RYO DEMINLI PURBA</td></center>
+    <center><img src="aku.jpg"/ width="10%" height="50%"></center>
+
+  </tr>
+  <tr>
+    <td><center>TEMPAT/TANGGAL LAHIR</td></center>
+    <td><center>TEBINGTINGGI/29 APRIL 1998</td></center>
+  </tr>
+  <tr>
+    <td><center>JENIS KELAMIN</td></center>
+    <td><center>LAKI-LAKI</td></center>
+  </tr>
+  <tr>
+    <td><center>GOLONGAN DARAH</td></center>
+    <td><center>A</td></center>
+  </tr>
+  <tr>
+    <td><center>ALAMAT</td></center>
+    <td><center>DALU-DALU ROKAN HULU ( RIAU )</td></center>
+  </tr>
+  <tr>
+    <td><center>AGAMA</td></center>
+    <td><center>KRISTEN</td></center>
+  </tr>
+  <tr>
+    <td><center>STATUS</td></center>
+    <td><center>BELUM MENIKAH</td></center>
+  </tr>
+  <tr>
+    <td><center>PEKERJAAN</td></center>
+    <td><center>MAHASISWA</td></center>
+  </tr>
+  <tr>
+    <td><center>KEWARGANEGARAAN</td></center>
+    <td><center>INDONESIA</td></center>
+  </tr>
+  <tr>
+    <td><center>RIWAYAT PENDIDIKAN</td></center>
+    <td><center>SDN 005 TAMBUSAI UTARA</td></center>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td><center>SMPN 7 TAMBUSAI UTARA</td></center>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td><center>SMK BISNIS DIPANEGARA TEBING TINGGI</td></center>
+  </tr>
+  <tr>
+    <td><center>RIWAYAT PERGURUAN</td></center>
+    <td><center>UNIVERSITAS IBBI</td></center>
+  </tr>
+</table>
+<p>&nbsp;</p>
+</body>
+</html>
